@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en"  dir="ltr">
+<head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="dizzcox
+ is a mulitpurpose cms">
+    <!-- <meta name="tags" content="multpupore,website,cms">
+                            <link rel="icon" href="https:///assets/uploads/media-uploader/site-favicon-4463241587151052.png" type="image/png"> -->
+            <!-- load fonts dynamically -->
+     <!-- <link href="https://fonts.googleapis.com/css?family=Poppins:regular,500,600,700|Montserrat:regular,500,600,700&display=swap" rel="stylesheet"> -->
+ <link rel="stylesheet" href="assets/frontend/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/frontend/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/frontend/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/frontend/css/animate.css">
+    <link rel="stylesheet" href="assets/frontend/css/flaticon.css">
+    <link rel="stylesheet" href="assets/frontend/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/frontend/css/style.css">
+    <link rel="stylesheet" href="assets/frontend/css/responsive.css">
+    <link rel="stylesheet" href="assets/frontend/css/dynamic-style.css">
+    <link rel="stylesheet" href="assets/frontend/css/jquery.ihavecookies.css">
+  <link href="assets/frontend/css/icofont/icofont.min.css" rel="stylesheet">
+
+<script src="https://use.fontawesome.com/3f5c6976c0.js"></script>
+
+
+    <style>
+        :root {
+            --main-color-one: #2685f9;
+            --secondary-color: #121d5c;
+            --heading-color: #0a1121;
+            --paragraph-color: #878a95;
+                        --heading-font: "Montserrat",sans-serif;
+            --body-font:"Poppins",sans-serif;
+        }
+    </style>
+                <title>MLTSolutions</title>
+    </head>
+<body>
+
+
+<div class="info-bar-area style-three d-none d-lg-block">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="info-bar-inner">
+                    <div class="left-content">
+                        <ul class="info-items-two">
+                                    <li>
+                                    <div class="single-info-item">
+                                        <div class="icon">
+                                            <!-- <i  class="flaticon-email"></i> -->
+                                            <img class="top-header" src="assets/frontend/images/004-envelope.svg">
+                                        </div>
+                                        <div class="content">
+                                            <h5 class="title">Email: <span class="details"><a href="mailto:info@mltsolutions.com">info@mltsolutions.com</a>
+</span></h5>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                            <li>
+                                    <div class="single-info-item">
+                                        <div class="icon">
+                                            <img class="top-header" src="assets/frontend/images/002-phone-call.svg">
+                                        </div>
+                                        <div class="content">
+                                            <h5 class="title">Phone number: <span class="details">+234 812 807 3535</span></h5>
+
+                                        </div>
+                                    </div>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="right-content">
+                        <ul class="social-icon">
+                             <div class="social-links float-right">
+        <a href="https://www.twitter.com/solutionsmlt/" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="https://www.facebook.com/mltsolutionsltd/" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/mlt_solutions/" class="instagram"><i class="icofont-instagram"></i></a>
+        <!-- <a href="#" class="skype"><i class="icofont-skype"></i></a> -->
+        <a href="https://www.linkedin.com/company/mlt-marketing-communication-solutions" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+      </div>
+<!-- 
+                            <li class="title">Follow:</li>
+                                                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                                                            <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                                                    </ul> -->
+                     
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="header-top-style-03">
+    <nav class="navbar navbar-area navbar-expand-lg nav-style-02">
+        <div class="container nav-container">
+            <div class="navbar-brand">
+                <a href="" class="logo">
+                    <img class="curved-corner-topleft" src="assets/frontend/images/mlt_logo.png" alt="site logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bizcoxx_main_menu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="bizcoxx_main_menu">
+                <ul class="navbar-nav">
+                    </li> 
+                    <li class="">
+                    <a href=""> Home </a>               
+                    </li>                             
+
+                    <li class="">
+                    <a href="about"> About Us</a>
+                <ul class="sub-menu">
+                    <li class="">
+                    <a href="brochure"> Brochure </a>
+                    </li>                                               
+                </ul>
+                    </li> 
+                                <li class="">
+                    <a href="services"> Services </a>
+
+                                    <ul class="sub-menu">                            <li class="">
+                    <a href="market-intelligence-research"> Market Intelligence & Research </a>
+                                    </li>                            <li class="">
+                    <a href="service-quality-monitoring"> Service Quality Monitoring </a>
+                                    </li>                            <li class="">
+                    <a href="digital-marketing">  Digital Marketing & Strategy Development </a>
+                                    </li>                            <li class="">
+                    <a href="branding-advertisment"> Branding & Advertisement </a>
+                                    </li>                            <li class="">
+                    <a href="media-strategy-planning-management">  Media Strategy Planning & Management </a>
+                                    </li>                            <li class="">
+                    <a href="experimental-marketing"> Experiential Marketing </a>
+                            </li>                            
+                        </ul>
+                                </li>
+
+
+                                                <li class="">
+                    <a href="#"> Insights </a>
+                                    <ul class="sub-menu">                            <li class="">
+                    <a href="white-paper"> White Paper </a>
+                                    </li>                                                <li class="">
+                    <a href="articles">  Articles </a>
+                                                                           
+                        </ul>
+                                </li>  
+                         <li class="">
+                    <a href="contact"> Contact </a>
+                                            </ul>
+            </div>
+                        <div class="nav-right-content">
+                             <!--    <a href="/request-quote" class="get-quote">Get A Quote</a> -->
+            </div>
+                    </div>
+    </nav>
+</div>
+
+<header class="header-area-wrapper header-carousel-two">
+            <div class="img-responsive header-area style-03 header-bg"
+                                       style="" >
+            <div class="container text-center header-inner" >
+                            <h1 class="title">
+                                WE ONLY FOCUS ON WHAT MATTERS,AND THAT'S RESULT
+                            </h1>
+                            <p>
+                                We are a full-service Marketing and communication Agency in Lagos, Nigeria.
+                                We assist businesses in building competent brands in their industry market research and
+                                achieve growth. Our approach is flexible. Collaboration is the way we want it..
+                            </p>
+                            <div class="btn-wrapper  desktop-center padding-top-20">
+                                                                    <a href="about" class="boxed-btn btn-rounded white">Know More</a>
+                                                            </div>
+                                            
+            </div>
+        </div>
+            <div class="header-area style-03 header-bg"
+                                       style="background-image: url(https://.com/assets/uploads/media-uploader/header-slider-image-11586955184.jpg)"
+                     >
+            <div class="container container text-center header-inner">
+
+                            <h1 class="title">
+                                WE ONLY FOCUS ON WHAT MATTERS,AND THAT'S RESULT
+                            </h1>
+                            <p>
+                                We are a full-service Marketing and communication Agency in Lagos, Nigeria.
+                                We assist businesses in building competent brands in their industry market research and
+                                achieve growth. Our approach is flexible. Collaboration is the way we want it..
+                            </p>
+                            <div class="btn-wrapper  desktop-center padding-top-20">
+                                <a href="#" class="boxed-btn btn-rounded white">
+                                    Know More
+                                </a>
+                            </div>
+             
+            </div>
+        </div>
+    </header>
+
+
+
+
+<div class="header-bottom-area-three section-bg-1">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="header-bottom-list">
+                                            <li>
+                            <div class="single-header-bottom-list-item">
+                                <span class="bg-icon">
+                                    <img class="" src="assets/frontend/images/002-analytics.svg">
+                                </span>
+                                <img class="after-landing" src="assets/frontend/images/002-analytics.svg">
+
+                                <div class="content">
+                                    <h4 class="title">MARKET INTELLIGENCE</h4>
+                                    <p>MLT Marketing Solutions provide strategic
+                                        market research and competitive intelligence
+                                        services to business-to-business and
+                                            industrial clients.</p>
+                                </div>
+                            </div>
+                        </li>
+                                            <li>
+                            <div class="single-header-bottom-list-item">
+                                <span class="bg-icon">
+                                    <img class="" src="assets/frontend/images/003-megaphone.svg">
+                                </span>
+                                <img class="after-landing" src="assets/frontend/images/003-megaphone.svg">
+                                <div class="content">
+                                    <h4 class="title">DIGITAL MARKETING STRATEGY</h4>
+                                    <p>Our digital strategy development solutions
+                                    support your business from delivery and beyond.
+                                    We discover, define, and deliver solutions that
+                                    enable you to operate more efficiently...</p>
+                                </div>
+                            </div>
+                        </li>
+                                            <li>
+                            <div class="single-header-bottom-list-item">
+                                <span class="bg-icon">
+                                    <img class="" src="assets/frontend/images/002-recruitment.svg">
+                                </span>
+                                <img class="after-landing" src="assets/frontend/images/002-recruitment.svg">
+                                <div class="content">
+                                    <h4 class="title">EXPERIENTIAL MARKETING</h4>
+                                    <p>Our goal is to support your products with our
+                                        services and to create a memorable connection
+                                        between consumers and brands. Experience in
+                                        the industry has...</p>
+                                </div>
+                            </div>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="aboutus-area padding-120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="aboutus-content-block style-02">
+                    <h3 class="title">About Us</h3>
+                    <p>Based in Lagos, Nigeria, MLT Communication &
+                        Marketing Solutions is one of Nigeria's leading
+                        B2B/B2C marketing and communication agencies,
+                        offering a complete range of award-winning
+                        marketing services...</p>
+                                            <div class="btn-wrapper desktop-left">
+                            <a href="about" class="boxed-btn btn-rounded">READ MORE</a>
+                        </div>
+                                    </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="img-block-width-counterup">
+                            <img  src="https://.com/assets/uploads/media-uploader/home-page-01-pr-about-us-experience-background-image-26977691586971680.jpg" alt="">
+                                        <div class="hover">
+                        <div class="count-wrap"><span class="count-num">10</span>+</div>
+                        <p>Years of experience</p>
+                    </div>
+                </div>
+                <div class="content-block-with-sign margin-top-30">
+                    <h4 class="title">Why Choose Us</h4>
+                    <p>Our years of professional practice
+                        across sectors have given us the
+                        placement required to help our
+                        various clients in the achievement
+                        of their desired strategic goals and
+                        objectives</p>
+                   
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="img-block margin-left-20">
+                    <img  src="https:///assets/uploads/media-uploader/home-page-01-pr-about-us-right-image-74487211586971672.jpg" alt="">
+                                    </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="our-cover-area padding-top-40 padding-bottom-20 bg-image"
+>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                
+                <div class="section-title desktop-center margin-bottom-50">
+                    <h2 class="title">Our Cover Area</h2>
+                    <p>We help you to grow business with More than 10 years experience with these services.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                    <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/002-analytics.svg">
+                    </span>
+                    <div class="content">
+                        <a href="market-intelligence-research"><h4 class="title">MARKET INTELLIGENCE</h4></a>
+                        <p>MLT Marketing Solutions provide strategic
+                            market research and competitive
+                            intelligence services to business-to-
+                            business and...
+                        </p>
+                        <small class="readmore"> <a href="market-intelligence-research">Read more</a> </small>
+                    </div>
+                </div>
+            </div>
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                       <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/003-megaphone.svg">
+                    </span>
+                    <div class="content">
+                        <a href="digital-marketing"><h4 class="title">DIGITAL MARKETING STRATEGY</h4></a>
+                        <p>Our digital strategy development solutions
+                            support your business from delivery and
+                            beyond. We discover, define, and deliver...
+                        </p>
+                        <small class="readmore"> <a href="digital-marketing">Read more</a> </small>
+
+                    </div>
+                </div>
+            </div>
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                       <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/001-consult.svg">
+                    </span>
+                    <div class="content">
+                        <a href="service-quality-monitoring"><h4 class="title">SERVICE QUALITY MONITORING</h4></a>
+                        <p>Our service quality monitoring solution provides
+                            the feedback required to ensure that service
+                            standards are complied with by the...</p>
+                        <small class="readmore"> <a href="service-quality-monitoring">Read more</a> </small>
+
+                    </div>
+                </div>
+            </div>
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                     <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/001-branding.svg">
+                    </span>
+                    <div class="content">
+                        <a href="branding-advertisment"><h4 class="title">BRANDING</h4></a>
+                        <p>MLT Marketing Solutions provide strategic
+                            market research and competitive
+                            intelligence services to business-to-...
+                        </p>
+                        <small class="readmore"> <a href="branding-advertisment">Read more</a> </small>
+
+                    </div>
+                </div>
+            </div>
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                       <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/003-network.svg">
+                    </span>
+                    <div class="content">
+                        <a href="media-strategy-planning-management"><h4 class="title">MEDIA STRATEGY
+                                            PLANNING
+                                            AND MANAGEMENT
+                            </h4></a>
+                        <p>At MLT Marketing & Communication Solutions,
+                            our unparalleled track record is built...
+                        </p>
+                        <small class="readmore"> <a href="media-strategy-planning-management">Read more</a> </small>
+
+                    </div>
+                </div>
+            </div>
+                        <div class="col-lg-4 col-md-6">
+                <div class="icon-box-two margin-bottom-30">
+                     <span class="float-right">
+                       <img class="cover-area" src="assets/frontend/images/003-analyze.svg">
+                    </span>
+                    <div class="content">
+                        <a href="market-intelligence-research"><h4 class="title">RESEARCH AND DEVELOPMENT</h4></a>
+                        <p>Looking for a niche online? With survey
+                            consultation for brand tracking, concept
+                            testing, consumer behavior, and...
+                        </p>
+                        <small class="readmore"> <a href="market-intelligence-research">Read more</a> </small>
+
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</section>
+     <br><br>     <br><br>
+<section class="cta-area-one cta-bg-one padding-top-40 padding-bottom-40"
+                           style="background-image: url(/assets/uploads/media-uploader/home-page-01-sn-cta-background-image-19014601587039372.jpg)">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="left-content-area">
+                    <h3 class="title">Are you looking to grow your business?</h3>
+                    <!-- <p>Trusted us by over 10,000 local businesses</p> -->
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="right-content-area">
+                    <div class="btn-wrapper">
+                        <a href="tel:123456789" class="boxed-btn btn-rounded white">+234 812 807 3535</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="faq-area bg-image padding-120"
+   style="background-image: url(/assets/uploads/media-uploader/home-page-01-pr-faq-background-image-99349581588008399.jpg)"
+ >
+    <div class="container">
+        <div class="row no-gutters">
+            <div class="col-lg-6" >
+                <div class="experiment left-content-area">
+                    <div class="section-title desktop-left tablet-center mobile-center margin-bottom-55">
+                        <div class="single-work-item">
+                            <div class="thumb">
+
+                               <img  src="assets/frontend/images/king.png" alt="">
+                                </div>
+                            <div class="content">
+                                <h4 class="title"><a href="/work/1/finance-solution">Consumer Is King & Is Not A Cliché.</a></h4>
+                                <p>The journey towards the Consumer Kingdom is not easy but can be very rewarding. Look at the major companies that are doing ...</p>
+                                <div class="cats">  <a href="#">Read more</a></div>
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="right-content-area">
+                    <div class="request-call">
+                        <h4 class="title">Request Call Back</h4>
+                        <p>We help you to grow business with More than 10 years experience.</p>
+                                                                        <form action="/request-call-back" class="request-call-form margin-top-60" enctype="multipart/form-data" method="post">
+                            <input type="hidden" name="_token" value="87H0j6GMfQpym009SfeL4JueXQPB0MhTKWosEEf4">                                                                                                                                                                                                                                         <div class="form-group"> <input type="text" id="your-name" name="your-name" class="form-control" placeholder="Your Name" ></div>                                                                                                                                                                                                                                                                      <div class="form-group"> <input type="email" id="your-email" name="your-email" class="form-control" placeholder="Your Email" ></div>                                                                                                                                                                                                                                                                                 <div class="form-group"> <input type="text" id="your-subject" name="your-subject" class="form-control" placeholder="Your Subject" ></div>                                                                                                                                                                                                                                                                                 <div class="form-group"> <input type="tel" id="your-phone" name="your-phone" class="form-control" placeholder="Your Phone" ></div>                                                                                                                            <button type="submit" class="submit-btn white">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="our-work-area padding-top-70 padding-bottom-50">
+    <div class="">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="section-title desktop-center margin-bottom-55">
+                    <h4 class="title under" style="text-decoration: underline;">Our Clientele</h4>
+                    
+                </div>
+            </div>
+        </div>
+           <div class="brand-logo-area section-bg-1 padding-40">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="brand-carousel">
+                        <div class="single-carousel">                                                                                                     <a href="#">                                         <img src="/assets/uploads/media-uploader/brand-image-61587135228.png" alt="">
+            </a>                                                             </div>
+                        <div class="single-carousel">                                                                                                     <a href="#">                                         <img src="/assets/uploads/media-uploader/brand-image-51587135228.png" alt="">
+            </a>                                                             </div>
+                        <div class="single-carousel">                                                                                                                                            <img src="/assets/uploads/media-uploader/brand-image-41587135227.png" alt="">
+                                                                        </div>
+                        <div class="single-carousel">                                                                                                                                         <img src="/assets/uploads/media-uploader/brand-image-31587135227.png" alt="">                                                                                                    </div>
+                        <div class="single-carousel">                                                                                                     <a href="#">                                         <img src="/assets/uploads/media-uploader/brand-image-11587135226.png" alt="">
+            </a>                                                             </div>
+                        <div class="single-carousel">                                                                                                     <a href="#">                                         <img src="/assets/uploads/media-uploader/brand-image-21587135226.png" alt="">
+            </a>                                                             </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+
+<div class="counterup-area counterup-bg padding-top-40 padding-bottom-40"
+               style="background-image: url(/assets/uploads/media-uploader/home-page-01-counterup-bg-image-33213221587053290.jpg)"
+     >
+    <div class="container">
+        <div class="row">
+                            <div class="col-lg-3 col-md-6">
+                    <div class="singler-counterup-item-01 white">
+                                <span class="dark-content">
+                                    <img class="" src="assets/frontend/images/newimage/001-checklist.svg">
+                                </span>
+                        <div class="content">
+
+                            <div class="count-wrap"><span class="count-num">10+</span></div>
+                            <h4 class="title">Projects Completed</h4>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-3 col-md-6">
+                    <div class="singler-counterup-item-01 white">
+
+                        <span class="dark-content">
+                            <img class="" src="assets/frontend/images/newimage/002-handshake.svg">
+                        </span>
+                        <div class="content">
+                            
+                            <div class="count-wrap"><span class="count-num">50+</span></div>
+                            <h4 class="title">Happy Customers</h4>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-3 col-md-6">
+                    <div class="singler-counterup-item-01 white">
+                        <span class="dark-content">
+                            <img class="" src="assets/frontend/images/newimage/003-analytics.svg">
+                        </span>
+                        <div class="content">
+                            <div class="count-wrap"><span class="count-num">05+</span></div>
+                            <h4 class="title">Running Projects</h4>
+                        </div>
+                    </div>
+                </div>
+                            <div class="col-lg-3 col-md-6">
+                    <div class="singler-counterup-item-01 white">
+                                <span class="dark-content">
+                                    <img class="" src="assets/frontend/images/newimage/001-caution.svg">
+                                </span>
+                        <div class="content">
+
+                            <div class="count-wrap"><span class="count-num">50+</span></div>
+                            <h4 class="title">Followers</h4>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</div>
+
+
+
+<div class="newsletter-area padding-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="left-side-content">
+                    <h2 class="title">Subscribe to get updates</h2>
+                    <p>Subscribe our newsletter to get update with our self.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="right-side-content">
+                                                            <form action="/subscribe-newsletter" method="post" enctype="multipart/form-data">
+                        <input type="hidden" name="_token" value="87H0j6GMfQpym009SfeL4JueXQPB0MhTKWosEEf4">                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Enter your email" class="form-control">
+                        </div>
+                        <button type="submit" class="submit-btn"><i class="fas fa-paper-plane"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer-area">
+    <div class="footer-top padding-top-100 padding-bottom-65">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="footer-widget widget">
+                        <div id="" class="about_us_widget">
+                             <a href="" class="">
+                    <img class="footer-logo" src="assets/frontend/images/mlt_logo.png" alt="site logo">
+                </a>
+                    <p>
+                        MLT Communication & Marketing
+                        Solutions is one of Nigeria's leading
+                        B2B/B2C marketing and communication
+                        agencies, offering a complete range of
+                        award-winning ...
+                        </p>
+                           <div class="social-links float-left">
+        <a href="https://www.twitter.com/solutionsmlt/" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="https://www.facebook.com/mltsolutionsltd/" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/mlt_solutions/" class="instagram"><i class="icofont-instagram"></i></a>
+        <!-- <a href="#" class="skype"><i class="icofont-skype"></i></a> -->
+        <a href="https://www.linkedin.com/company/mlt-marketing-communication-solutions" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+      </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="footer-widget">
+                        <h4 class="widget-title">Useful Links</h4>
+                        <ul>                                                                                                                        <li>
+                            <a href="about">  About Us </a>
+                        </li>                                                               <li>
+                            <a href="team">  Team </a>
+                        </li>                                                               <li>
+                            <a href="market-intelligence"> Market Intelligence </a>
+                        </li>                                                               <li>
+                            <a href="experimental-marketing"> Experiential Marketing </a>
+                        </li>
+                        <li>
+                            <a href="digital-marketing"> Digital Marketing </a>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="footer-widget widget widget_recent_posts">
+                        <h4 class="widget-title">Contact Us</h4>
+                         <p>
+                            5 Adeboye Solanke Avenue,
+                            Allen, Ikeja Lagos, Nigeria
+                        </p>
+                        <p>Phone: +234 8128073535</p>
+                        <p>Email: <a href="mailto:info@mltsolutions.com">info@mltsolutions.com</a></p>
+                        <!-- <p>Email: info@mltsolutions.com</p> -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+  <!--   <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="copyright-area-inner">
+                                                &copy;  2021  All right reserved by Dizzcox
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> -->
+</footer>
+
+<div class="preloader" id="preloader">
+    <div class="preloader-inner">
+        <div class="lds-ripple"><div></div><div></div></div>
+    </div>
+</div>
+
+<div class="back-to-top">
+    <i class="fas fa-angle-up"></i>
+</div>
+
+<!-- jquery -->
+    <script src="assets/frontend/js/jquery-3.4.1.min.js"></script>
+<script src="assets/frontend/js/jquery-migrate-3.1.0.min.js"></script>
+<script src="assets/frontend/js/bootstrap.bundle.min.js"></script>
+<script src="assets/frontend/js/dynamic-script.js"></script>
+<script src="assets/frontend/js/jquery.magnific-popup.js"></script>
+<script src="assets/frontend/js/imagesloaded.pkgd.min.js"></script>
+<script src="assets/frontend/js/isotope.pkgd.min.js"></script>
+<script src="assets/frontend/js/jquery.waypoints.js"></script>
+<script src="assets/frontend/js/jquery.counterup.min.js"></script>
+<script src="assets/frontend/js/owl.carousel.min.js"></script>
+<script src="assets/frontend/js/wow.min.js"></script>
+<script src="assets/frontend/js/jquery.ihavecookies.min.js"></script>
+<script src="assets/frontend/js/main.js"></script>
+<!-- <script>
+    (function($){
+        "use strict";
+        $(document).ready(function(){
+            $(document).on('change','#langchange',function(e){
+                $.ajax({
+                    url : "/lang",
+                    type: "GET",
+                    data:{
+                        'lang' : $(this).val()
+                    },
+                    success:function (data) {
+                        location.reload();
+                    }
+                })
+            });
+        });
+    }(jQuery));
+</script> -->
+
+
+<!--Start of Tawk.to Script-->
+<!-- <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src="https://embed.tawk.to/5e0b3e167e39ea1242a27b69/default";
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script> -->
+
+<!--     <script>
+    $(document).ready(function () {
+        $('body').ihavecookies({
+            title: "Cookies &amp; Privacy",
+            message: "This website uses cookies to ensure you get the best experience on our website",
+            expires: "30" ,
+            link: "/p/11/privacy-policy",
+            delay: "5000",
+            moreInfoLabel: "More information",
+            acceptBtnLabel: "Accept Cookie"
+        });
+        $('body').on('click','#gdpr-cookie-close',function (e) {
+            e.preventDefault();
+            $(this).parent().remove();
+        });
+    });
+</script> -->
+
+</body>
+
+</html>
